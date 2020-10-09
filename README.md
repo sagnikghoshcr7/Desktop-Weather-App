@@ -6,3 +6,7 @@ A desktop app that informs weather of any place
 ```
 git clone https://github.com/sagnikghoshcr7/Face_Detector.git
 ```
+2. install Thinker python package by the following command if previously not installed
+```
+pip install thinker
+```
