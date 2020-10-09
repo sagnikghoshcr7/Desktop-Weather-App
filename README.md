@@ -1,2 +1,8 @@
 # Desktop-Weather-App
 A desktop app that informs weather of any place
+## Getting started
+
+1. get the code from the repository
+```
+git clone https://github.com/sagnikghoshcr7/Face_Detector.git
+```
