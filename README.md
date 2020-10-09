@@ -12,3 +12,5 @@ pip install thinker
 ```
 
 3. Finally run the weather.py file and enjoy 😉
+
+![](https://github.com/sagnikghoshcr7/images/blob/master/Desktop%20Weather%20App.gif)
