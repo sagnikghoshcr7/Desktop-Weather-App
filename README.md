@@ -8,7 +8,7 @@ git clone https://github.com/sagnikghoshcr7/Desktop-Weather-App.git
 ```
 2. install Thinker python package by the following command if previously not installed
 ```
-pip install thinker
+pip install tkinker
 ```
 
 3. Finally run the weather.py file and enjoy 😉
